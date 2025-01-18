@@ -2,7 +2,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Elegant Desk Lamp",
-    "slug": { "_type": "slug", "current": "elegant-desk-lamp" },
+    "slug": "elegant-desk-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMTAuanBlZyIsImlhdCI6MTczNzIyMDI3MiwiZXhwIjo0ODkwODIwMjcyfQ.s79-4LRdqr9ILWFLCLFDoItRO1aZZRJEp7gNHQ0AvX4&t=2025-01-18T17%3A11%3A12.934Z",
     "price": 49.99,
     "quantity": 20,
@@ -14,7 +14,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Rustic Table Lamp",
-    "slug": { "_type": "slug", "current": "rustic-table-lamp" },
+    "slug": "rustic-table-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMS5qcGVnIiwiaWF0IjoxNzM3MjIwMzQzLCJleHAiOjQ4OTA4MjAzNDN9.6Io2pCr3H0i87uiB-Q18W1jaNLNzZ2xcCDxpwWtrX_M&t=2025-01-18T17%3A12%3A23.820Z",
     "price": 59.99,
     "quantity": 15,
@@ -26,7 +26,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Industrial Floor Lamp",
-    "slug": { "_type": "slug", "current": "industrial-floor-lamp" },
+    "slug": "industrial-floor-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMi5qcGVnIiwiaWF0IjoxNzM3MjIwMzg1LCJleHAiOjQ4OTA4MjAzODV9.cW1U8o-PZU7LGJJffkXkxG1nKiqjqAlpO6jAy36Wrjg&t=2025-01-18T17%3A13%3A05.910Z",
     "price": 129.99,
     "quantity": 10,
@@ -38,7 +38,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Minimalist Wall Lamp",
-    "slug": { "_type": "slug", "current": "minimalist-wall-lamp" },
+    "slug": "minimalist-wall-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMy5qcGVnIiwiaWF0IjoxNzM3MjIwNDI0LCJleHAiOjQ4OTA4MjA0MjR9.u31415U4bVOYTMwxS2FKFUpjD6lba3WlWWZKoR4NOfE&t=2025-01-18T17%3A13%3A44.612Z",
     "price": 39.99,
     "quantity": 25,
@@ -50,7 +50,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Vintage Lantern Lamp",
-    "slug": { "_type": "slug", "current": "vintage-lantern-lamp" },
+    "slug": "vintage-lantern-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/4.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNC5qcGVnIiwiaWF0IjoxNzM3MjIwNDUzLCJleHAiOjQ4OTA4MjA0NTN9.KJgNMH58b7FAVQkg4EHRczsAW1kL7Eo4FDFr46Izu3g&t=2025-01-18T17%3A14%3A13.611Z",
     "price": 79.99,
     "quantity": 12,
@@ -62,7 +62,7 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Smart LED Desk Lamp",
-    "slug": { "_type": "slug", "current": "smart-led-desk-lamp" },
+    "slug": "smart-led-desk-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNS5qcGVnIiwiaWF0IjoxNzM3MjIwNDg2LCJleHAiOjQ4OTA4MjA0ODZ9.GN1k9i1Vt2ecmGwZpbqQrPMiR719AHdSFFyQZFODB8I&t=2025-01-18T17%3A14%3A46.381Z",
     "price": 89.99,
     "quantity": 18,
@@ -74,52 +74,15 @@
   {
     "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Art Deco Table Lamp",
-    "slug": { "_type": "slug", "current": "art-deco-table-lamp" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNi5qcGVnIiwiaWF0IjoxNzM3MjIwNTM0LCJleHAiOjQ4OTA4MjA1MzR9.GaFAkQnOl3SU9ARcayj0vVk-vxL2W7ikH5FTgjnW-rY&t=2025-01-18T17%3A15%3A34.923Z",
-    "price": 119.99,
-    "quantity": 8,
-    "tags": ["art deco", "table", "lighting"],
-    "description": "An art deco-inspired table lamp for a touch of elegance.",
-    "features": ["Unique design", "Metal finish", "Soft glow"],
-    "dimensions": { "height": "30cm", "width": "15cm", "depth": "15cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "lampCategoryId" },
-    "name": "Contemporary Floor Lamp",
-    "slug": { "_type": "slug", "current": "contemporary-floor-lamp" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/7.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNy5qcGVnIiwiaWF0IjoxNzM3MjIwNTYwLCJleHAiOjQ4OTA4MjA1NjB9.IksW_BLCvVAskJ_2C0D3a9Sb_aHSosFeKMuDq2HVtsk&t=2025-01-18T17%3A16%3A00.104Z",
-    "price": 159.99,
-    "quantity": 6,
-    "tags": ["contemporary", "floor", "lighting"],
-    "description": "A contemporary floor lamp with a sleek design.",
-    "features": ["Adjustable head", "LED bulb", "Sturdy base"],
-    "dimensions": { "height": "160cm", "width": "30cm", "depth": "30cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "lampCategoryId" },
-    "name": "Crystal Chandelier Lamp",
-    "slug": { "_type": "slug", "current": "crystal-chandelier-lamp" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/8.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvOC5qcGVnIiwiaWF0IjoxNzM3MjIwNTgwLCJleHAiOjQ4OTA4MjA1ODB9.yvprJ576l7JDwBQUaORFB2WTQ32-QPfPbWiL2sE8slg&t=2025-01-18T17%3A16%3A21.352Z",
-    "price": 299.99,
-    "quantity": 4,
-    "tags": ["chandelier", "crystal", "luxury"],
-    "description": "A luxurious crystal chandelier lamp to elevate your space.",
-    "features": ["Crystal accents", "Elegant design", "Soft lighting"],
-    "dimensions": { "height": "50cm", "width": "40cm", "depth": "40cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "lampCategoryId" },
-    "name": "Scandinavian Pendant Lamp",
-    "slug": { "_type": "slug", "current": "scandinavian-pendant-lamp" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/9.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvOS5qcGVnIiwiaWF0IjoxNzM3MjIwNjA0LCJleHAiOjQ4OTA4MjA2MDR9.M9pQR7pqsr2CUH2bqaR9NI7Igp5dtiDmzcgo0gVJ5tQ&t=2025-01-18T17%3A16%3A44.426Z",
+    "slug": "art-deco-table-lamp",
+    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNi5qcGVnIiwiaWF0IjoxNzM3MjIwNTI1LCJleHAiOjQ4OTA4MjA1MjV9.kBfGmJcQm6b9k7rgY5lK3PqfsY6D2qGHkhfOQeH5eH4&t=2025-01-18T17%3A15%3A17.869Z",
     "price": 99.99,
-    "quantity": 10,
-    "tags": ["scandinavian", "pendant", "lighting"],
-    "description": "A Scandinavian-inspired pendant lamp for modern homes.",
-    "features": ["Minimalist design", "Warm light", "Durable build"],
-    "dimensions": { "height": "40cm", "width": "20cm", "depth": "20cm" }
+    "quantity": 22,
+    "tags": ["art deco", "table", "lighting"],
+    "description": "A stylish art deco table lamp that adds elegance to any room.",
+    "features": ["Art deco design", "Brass finish", "Soft light"],
+    "dimensions": { "height": "30cm", "width": "12cm", "depth": "12cm" }
   },
-
   {
     "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Modern Accent Chair",
@@ -196,49 +159,13 @@
     "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Classic Rocking Chair",
     "slug": { "_type": "slug", "current": "classic-rocking-chair" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzYuanBlZyIsImlhdCI6MTczNzIyMDg4NywiZXhwIjo0ODkwODIwODg3fQ.KQg4mtKX4e9lz9u9f_lqNHh1p1PGcFU0GYQ3XKQxYiM&t=2025-01-18T17%3A21%3A27.806Z",
-    "price": 139.99,
-    "quantity": 8,
-    "tags": ["classic", "rocking", "comfort"],
-    "description": "A timeless rocking chair with a comfortable and sturdy design.",
-    "features": ["Smooth rocking motion", "Ergonomic seat", "Solid wood"],
-    "dimensions": { "height": "100cm", "width": "55cm", "depth": "90cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "chairCategoryId" },
-    "name": "Leather Executive Chair",
-    "slug": { "_type": "slug", "current": "leather-executive-chair" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/7.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzcuanBlZyIsImlhdCI6MTczNzIyMDkxNywiZXhwIjo0ODkwODIwOTE3fQ.Y2DsEVisRWkR7YuLJp-JPnZU2I3SYMU1ybioVhs583Q&t=2025-01-18T17%3A21%3A57.665Z",
-    "price": 299.99,
-    "quantity": 5,
-    "tags": ["leather", "executive", "office"],
-    "description": "A premium leather executive chair for ultimate office comfort.",
-    "features": ["Genuine leather", "Adjustable height", "Tilt mechanism"],
-    "dimensions": { "height": "115cm", "width": "65cm", "depth": "70cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "chairCategoryId" },
-    "name": "Kids Bean Bag Chair",
-    "slug": { "_type": "slug", "current": "kids-bean-bag-chair" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/8.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzguanBlZyIsImlhdCI6MTczNzIyMDk1NiwiZXhwIjo0ODkwODIwOTU2fQ._aro6AkwiVHU4NY_GmXG2LXjVtk9QmAqHVpq8jE6e64&t=2025-01-18T17%3A22%3A36.045Z",
-    "price": 49.99,
-    "quantity": 20,
-    "tags": ["kids", "bean bag", "fun"],
-    "description": "A fun and colorful bean bag chair for kids' playrooms.",
-    "features": ["Soft fabric", "Lightweight", "Easy to move"],
-    "dimensions": { "height": "50cm", "width": "60cm", "depth": "60cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "chairCategoryId" },
-    "name": "Mid-Century Modern Chair",
-    "slug": { "_type": "slug", "current": "mid-century-modern-chair" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/9.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzkuanBlZyIsImlhdCI6MTczNzIyMDk4NywiZXhwIjo0ODkwODIwOTg3fQ.fetByylTliDLphgRmIXolm80Q1ZRPBaCx-_pSKb5RH0&t=2025-01-18T17%3A23%3A07.467Z",
-    "price": 159.99,
+    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzYuanBlZyIsImlhdCI6MTczNzIyMDkwOCwiZXhwIjo0ODkwODIwOTA4fQ.YO8Ul1B54eW5ChxZkQsZXDZZXw9gHl9eCk1MlE6Zl6A&t=2025-01-18T17%3A21%3A26.760Z",
+    "price": 99.99,
     "quantity": 18,
-    "tags": ["mid-century", "modern", "stylish"],
-    "description": "A mid-century modern chair with sleek lines and a retro vibe.",
-    "features": ["Wooden legs", "Padded seat", "Vintage design"],
-    "dimensions": { "height": "85cm", "width": "65cm", "depth": "70cm" }
+    "tags": ["rocking", "classic", "wooden"],
+    "description": "A classic wooden rocking chair perfect for relaxing indoors or outdoors.",
+    "features": ["Smooth rocking motion", "Comfortable seat", "Solid wood frame"],
+    "dimensions": { "height": "100cm", "width": "60cm", "depth": "70cm" }
   },
   {
     "category": { "_type": "reference", "_ref": "sofaCategoryId" },
@@ -304,7 +231,7 @@
     "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "L-Shaped Sofa",
     "slug": { "_type": "slug", "current": "l-shaped-sofa" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS81LmpwZWciLCJpYXQiOjE3MzcyMjExNzEsImV4cCI6NDg5MDgyMTE3MX0.5GoYbcrM7TvVX7h9VbfnV1ZIrYfrMG3PObHaDVLB8KI&t=2025-01-18T17%3A26%3A11.955Z",
+    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS81LmpwZWciLCJpYXQiOjE3MzcyMjExNzMsImV4cCI6NDg5MDgyMTE3MX0.5GoYbcrM7TvVX7h9VbfnV1ZIrYfrMG3PObHaDVLB8KI&t=2025-01-18T17%3A26%3A11.955Z",
     "price": 1099.99,
     "quantity": 4,
     "tags": ["L-shaped", "spacious", "family"],
@@ -316,48 +243,12 @@
     "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Chesterfield Sofa",
     "slug": { "_type": "slug", "current": "chesterfield-sofa" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS82LmpwZWciLCJpYXQiOjE3MzcyMjEyMDEsImV4cCI6NDg5MDgyMTIwMX0.A_7_cJ5jzQvfLCFP6AGCjlyJ7MlzwlDpnjokOXwvKHw&t=2025-01-18T17%3A26%3A41.475Z",
-    "price": 999.99,
-    "quantity": 6,
-    "tags": ["chesterfield", "luxury", "classic"],
-    "description": "A luxurious Chesterfield sofa with tufted details.",
-    "features": ["Tufted back", "Elegant design", "Premium materials"],
-    "dimensions": { "height": "85cm", "width": "210cm", "depth": "90cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
-    "name": "Recliner Sofa",
-    "slug": { "_type": "slug", "current": "recliner-sofa" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/7.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS83LmpwZWciLCJpYXQiOjE3MzcyMjEyMjksImV4cCI6NDg5MDgyMTIyOX0.c1ymZ6MT6r1TkUiDkplTsXGDQxs2zFUaQAS0_Ws509Y&t=2025-01-18T17%3A27%3A10.146Z",
+    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS82LmpwZWciLCJpYXQiOjE3MzcyMjExODgsImV4cCI6NDg5MDgyMTE4OH0.D5RkOzzLg6S9g2h1NtrpFzD6N3JhdmJdV6u6e1jwH_c&t=2025-01-18T17%3A26%3A33.956Z",
     "price": 1299.99,
-    "quantity": 5,
-    "tags": ["recliner", "comfort", "luxury"],
-    "description": "A reclining sofa with ultimate comfort and relaxation.",
-    "features": ["Reclining seats", "Soft padding", "Adjustable positions"],
-    "dimensions": { "height": "90cm", "width": "220cm", "depth": "95cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
-    "name": "Fabric Sofa",
-    "slug": { "_type": "slug", "current": "fabric-sofa" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/8.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS84LmpwZWciLCJpYXQiOjE3MzcyMjEyNjksImV4cCI6NDg5MDgyMTI2OX0.YuOMGDoty3Nj0wmObLeO4jj3uxX12AyjdTvAGrpKxlc&t=2025-01-18T17%3A27%3A49.143Z",
-    "price": 799.99,
-    "quantity": 10,
-    "tags": ["fabric", "modern", "comfortable"],
-    "description": "A modern fabric sofa with a sleek and comfortable design.",
-    "features": ["Durable fabric", "Foam cushions", "Stylish design"],
-    "dimensions": { "height": "85cm", "width": "200cm", "depth": "85cm" }
-  },
-  {
-    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
-    "name": "Vintage Sofa",
-    "slug": { "_type": "slug", "current": "vintage-sofa" },
-    "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/9.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS85LmpwZWciLCJpYXQiOjE3MzcyMjEyOTYsImV4cCI6NDg5MDgyMTI5Nn0.LLHM_pPMKf_I4NJZUY9m-VpoRFvCmOzMKaHws7SRrA0&t=2025-01-18T17%3A28%3A16.917Z",
-    "price": 899.99,
-    "quantity": 5,
-    "tags": ["vintage", "classic", "timeless"],
-    "description": "A vintage-style sofa with a timeless design.",
-    "features": ["Wooden frame", "Plush cushions", "Elegant details"],
-    "dimensions": { "height": "85cm", "width": "190cm", "depth": "85cm" }
+    "quantity": 2,
+    "tags": ["chesterfield", "luxury", "classic"],
+    "description": "A classic Chesterfield sofa that exudes sophistication.",
+    "features": ["Classic design", "Deep button tufting", "Durable leather"],
+    "dimensions": { "height": "85cm", "width": "220cm", "depth": "95cm" }
   }
 ]
