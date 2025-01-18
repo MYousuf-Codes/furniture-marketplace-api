@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server';
 export async function GET() {
   try {
     // Fetch the categories data from the public directory
-    const response = await fetch(`${process.env.VERCEL_URL}/data/categories.json`);
+    const response = await fetch('https://furniture-marketplace-api.vercel.app/api/categories');
     
     if (!response.ok) {
       throw new Error('Failed to fetch categories data');
