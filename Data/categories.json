@@ -1,0 +1,26 @@
+[
+    {
+    "_type": "category",
+    "name": "Lamps",
+    "slug": {
+      "_type": "slug",
+      "current": "lamps"
+    }
+  },
+    {
+    "_type": "category",
+    "name": "Chairs",
+    "slug": {
+      "_type": "slug",
+      "current": "chairs"
+    }
+  },
+    {
+    "_type": "Sofas",
+    "name": "Lamps",
+    "slug": {
+      "_type": "slug",
+      "current": "sofas"
+    }
+  }
+]
