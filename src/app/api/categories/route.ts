@@ -2,8 +2,8 @@ import { NextResponse } from 'next/server';
 
 export async function GET() {
   try {
-    // Fetch the categories data from the public directory
-    const response = await fetch('https://furniture-marketplace-api.vercel.app/api/categories');
+    // Fetch the categories data from the public folder
+    const response = await fetch('https://furniture-marketplace-api.vercel.app/data/categories.json');
     
     if (!response.ok) {
       throw new Error('Failed to fetch categories data');
