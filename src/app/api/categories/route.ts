@@ -1,18 +1,17 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
-
-// Define the path to the categories JSON file
-const categoriesFilePath = path.join(process.cwd(), 'data', 'categories.json');
 
 export async function GET() {
   try {
-    // Read the categories data from the JSON file
-    const data = await fs.promises.readFile(categoriesFilePath, 'utf8');
+    // Fetch the categories data from the public directory
+    const response = await fetch(`${process.env.VERCEL_URL}/data/categories.json`);
     
+    if (!response.ok) {
+      throw new Error('Failed to fetch categories data');
+    }
+
     // Parse the JSON data
-    const categories = JSON.parse(data);
-    
+    const categories = await response.json();
+
     // Return the categories as a JSON response
     return NextResponse.json(categories);
   } catch (error) {
