@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 
 export async function GET() {
   try {
-    // Fetch the product data from the public folder
+    // Fetch the product data from the public/data folder
     const response = await fetch('https://furniture-marketplace-api.vercel.app/data/products.json');
     
     if (!response.ok) {
