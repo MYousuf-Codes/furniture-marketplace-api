@@ -1,6 +1,7 @@
 [
     {
     "_type": "category",
+    "_id": "lampCategoryId",
     "name": "Lamps",
     "slug": {
       "_type": "slug",
@@ -9,6 +10,7 @@
   },
     {
     "_type": "category",
+    "_id": "chairCategoryId",
     "name": "Chairs",
     "slug": {
       "_type": "slug",
@@ -17,6 +19,7 @@
   },
     {
     "_type": "Sofas",
+    "_id": "sofaCategoryId",
     "name": "Lamps",
     "slug": {
       "_type": "slug",

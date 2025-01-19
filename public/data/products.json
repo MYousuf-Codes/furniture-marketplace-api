@@ -1,6 +1,6 @@
 [
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Elegant Desk Lamp",
     "slug": "elegant-desk-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMTAuanBlZyIsImlhdCI6MTczNzIyMDI3MiwiZXhwIjo0ODkwODIwMjcyfQ.s79-4LRdqr9ILWFLCLFDoItRO1aZZRJEp7gNHQ0AvX4&t=2025-01-18T17%3A11%3A12.934Z",
@@ -12,7 +12,7 @@
     "dimensions": { "height": "20cm", "width": "10cm", "depth": "10cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Rustic Table Lamp",
     "slug": "rustic-table-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMS5qcGVnIiwiaWF0IjoxNzM3MjIwMzQzLCJleHAiOjQ4OTA4MjAzNDN9.6Io2pCr3H0i87uiB-Q18W1jaNLNzZ2xcCDxpwWtrX_M&t=2025-01-18T17%3A12%3A23.820Z",
@@ -24,7 +24,7 @@
     "dimensions": { "height": "25cm", "width": "12cm", "depth": "12cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Industrial Floor Lamp",
     "slug": "industrial-floor-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMi5qcGVnIiwiaWF0IjoxNzM3MjIwMzg1LCJleHAiOjQ4OTA4MjAzODV9.cW1U8o-PZU7LGJJffkXkxG1nKiqjqAlpO6jAy36Wrjg&t=2025-01-18T17%3A13%3A05.910Z",
@@ -36,7 +36,7 @@
     "dimensions": { "height": "150cm", "width": "30cm", "depth": "30cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Minimalist Wall Lamp",
     "slug": "minimalist-wall-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMy5qcGVnIiwiaWF0IjoxNzM3MjIwNDI0LCJleHAiOjQ4OTA4MjA0MjR9.u31415U4bVOYTMwxS2FKFUpjD6lba3WlWWZKoR4NOfE&t=2025-01-18T17%3A13%3A44.612Z",
@@ -48,7 +48,7 @@
     "dimensions": { "height": "15cm", "width": "8cm", "depth": "5cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Vintage Lantern Lamp",
     "slug": "vintage-lantern-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/4.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNC5qcGVnIiwiaWF0IjoxNzM3MjIwNDUzLCJleHAiOjQ4OTA4MjA0NTN9.KJgNMH58b7FAVQkg4EHRczsAW1kL7Eo4FDFr46Izu3g&t=2025-01-18T17%3A14%3A13.611Z",
@@ -60,7 +60,7 @@
     "dimensions": { "height": "30cm", "width": "15cm", "depth": "15cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Smart LED Desk Lamp",
     "slug": "smart-led-desk-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNS5qcGVnIiwiaWF0IjoxNzM3MjIwNDg2LCJleHAiOjQ4OTA4MjA0ODZ9.GN1k9i1Vt2ecmGwZpbqQrPMiR719AHdSFFyQZFODB8I&t=2025-01-18T17%3A14%3A46.381Z",
@@ -72,7 +72,7 @@
     "dimensions": { "height": "25cm", "width": "10cm", "depth": "10cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "lmaps" },
+    "category": { "_type": "reference", "_ref": "lampCategoryId" },
     "name": "Art Deco Table Lamp",
     "slug": "art-deco-table-lamp",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvNi5qcGVnIiwiaWF0IjoxNzM3MjIwNTI1LCJleHAiOjQ4OTA4MjA1MjV9.kBfGmJcQm6b9k7rgY5lK3PqfsY6D2qGHkhfOQeH5eH4&t=2025-01-18T17%3A15%3A17.869Z",
@@ -84,7 +84,7 @@
     "dimensions": { "height": "30cm", "width": "12cm", "depth": "12cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Modern Accent Chair",
     "slug": "modern-accent-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzEwLmpwZWciLCJpYXQiOjE3MzcyMjA2OTgsImV4cCI6NDg5MDgyMDY5OH0._fjxKMhOb6JbtXru3IvB0KmiSmtdCh8skD92yJwzPxY&t=2025-01-18T17%3A18%3A18.399Z",
@@ -96,7 +96,7 @@
     "dimensions": { "height": "90cm", "width": "70cm", "depth": "70cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Ergonomic Office Chair",
     "slug": "ergonomic-office-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzEuanBlZyIsImlhdCI6MTczNzIyMDczNiwiZXhwIjo0ODkwODIwNzM2fQ.Ybdf_Q82FxUicOifXuPfLjvdSmvVUclxzEjrG6CbiL4&t=2025-01-18T17%3A18%3A56.773Z",
@@ -108,7 +108,7 @@
     "dimensions": { "height": "120cm", "width": "60cm", "depth": "60cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Rustic Dining Chair",
     "slug": "rustic-dining-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzIuanBlZyIsImlhdCI6MTczNzIyMDc3MSwiZXhwIjo0ODkwODIwNzcxfQ.a6iArtVy7gqsxVB1QTzPkvCaOJihzv_S61LacsndF14&t=2025-01-18T17%3A19%3A31.772Z",
@@ -120,7 +120,7 @@
     "dimensions": { "height": "95cm", "width": "45cm", "depth": "50cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Scandinavian Lounge Chair",
     "slug": "scandinavian-lounge-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzMuanBlZyIsImlhdCI6MTczNzIyMDgwMiwiZXhwIjo0ODkwODIwODAyfQ.sLntgUqYUsBqkYm3Qua_n9fSl967fyx_GHHy2B38m_w&t=2025-01-18T17%3A20%3A03.307Z",
@@ -132,7 +132,7 @@
     "dimensions": { "height": "85cm", "width": "75cm", "depth": "80cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Velvet Armchair",
     "slug": "velvet-armchair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/4.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzQuanBlZyIsImlhdCI6MTczNzIyMDgyOSwiZXhwIjo0ODkwODIwODI5fQ.vEcJKUyY_UgeTRlKz4VIdaRKW9JarzJruAGouJ1SPwg&t=2025-01-18T17%3A20%3A29.570Z",
@@ -144,7 +144,7 @@
     "dimensions": { "height": "90cm", "width": "80cm", "depth": "85cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Outdoor Patio Chair",
     "slug": "outdoor-patio-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzUuanBlZyIsImlhdCI6MTczNzIyMDg1OCwiZXhwIjo0ODkwODIwODU4fQ.nlGxMB92pSe0V0QZ4Q2tBLEbJBTSxKRk6aRlZDFA7VU&t=2025-01-18T17%3A20%3A58.394Z",
@@ -156,7 +156,7 @@
     "dimensions": { "height": "85cm", "width": "70cm", "depth": "75cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "chairs" },
+    "category": { "_type": "reference", "_ref": "chairCategoryId" },
     "name": "Classic Rocking Chair",
     "slug": "classic-rocking-chair",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzYuanBlZyIsImlhdCI6MTczNzIyMDkwOCwiZXhwIjo0ODkwODIwOTA4fQ.YO8Ul1B54eW5ChxZkQsZXDZZXw9gHl9eCk1MlE6Zl6A&t=2025-01-18T17%3A21%3A26.760Z",
@@ -168,7 +168,7 @@
     "dimensions": { "height": "100cm", "width": "60cm", "depth": "70cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Classic Leather Sofa",
     "slug": "classic-leather-sofa",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS8xMC5qcGVnIiwiaWF0IjoxNzM3MjIxMDI3LCJleHAiOjQ4OTA4MjEwMjd9.wRfPaM8ry58sLliPBxxD2SUokH0V0hZKkoljh6gATw0&t=2025-01-18T17%3A23%3A47.614Z",
@@ -180,7 +180,7 @@
     "dimensions": { "height": "90cm", "width": "200cm", "depth": "85cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Modern Sectional Sofa",
     "slug": "modern-sectional-sofa",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS8xLmpwZWciLCJpYXQiOjE3MzcyMjEwNTgsImV4cCI6NDg5MDgyMTA1OH0.0EF-yQ6xfUpyhpZbtSYY5Xijvg_cWe305fqAvpfy1wM&t=2025-01-18T17%3A24%3A18.153Z",
@@ -192,7 +192,7 @@
     "dimensions": { "height": "85cm", "width": "250cm", "depth": "90cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Velvet Loveseat",
     "slug": "velvet-loveseat",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS8yLmpwZWciLCJpYXQiOjE3MzcyMjEwODMsImV4cCI6NDg5MDgyMTA4M30.x3RS12j7T__mPExrudcSmOBlYcd6ZtZjJyOB3g30jSQ&t=2025-01-18T17%3A24%3A43.652Z",
@@ -204,7 +204,7 @@
     "dimensions": { "height": "85cm", "width": "150cm", "depth": "85cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Scandinavian Sofa",
     "slug": "scandinavian-sofa",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS8zLmpwZWciLCJpYXQiOjE3MzcyMjExMDgsImV4cCI6NDg5MDgyMTEwOH0.TFq0mR_ChqMdRrh1QNFjpewhA5_a_iqzdrhd_D9XzIg&t=2025-01-18T17%3A25%3A08.258Z",
@@ -216,7 +216,7 @@
     "dimensions": { "height": "85cm", "width": "180cm", "depth": "85cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Convertible Sofa Bed",
     "slug": "convertible-sofa-bed",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/4.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS80LmpwZWciLCJpYXQiOjE3MzcyMjExNDgsImV4cCI6NDg5MDgyMTE0OH0.y1hyBMjoE5APT6AUWexGs5Qhse01Z1_x3H9PKVoU_xY&t=2025-01-18T17%3A25%3A48.633Z",
@@ -228,7 +228,7 @@
     "dimensions": { "height": "85cm", "width": "190cm", "depth": "90cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "L-Shaped Sofa",
     "slug": "l-shaped-sofa",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/5.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS81LmpwZWciLCJpYXQiOjE3MzcyMjExNzMsImV4cCI6NDg5MDgyMTE3MX0.5GoYbcrM7TvVX7h9VbfnV1ZIrYfrMG3PObHaDVLB8KI&t=2025-01-18T17%3A26%3A11.955Z",
@@ -240,7 +240,7 @@
     "dimensions": { "height": "85cm", "width": "260cm", "depth": "90cm" }
   },
   {
-    "category": { "_type": "reference", "_ref": "sofas" },
+    "category": { "_type": "reference", "_ref": "sofaCategoryId" },
     "name": "Chesterfield Sofa",
     "slug": "chesterfield-sofa",
     "image": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/6.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS82LmpwZWciLCJpYXQiOjE3MzcyMjExODgsImV4cCI6NDg5MDgyMTE4OH0.D5RkOzzLg6S9g2h1NtrpFzD6N3JhdmJdV6u6e1jwH_c&t=2025-01-18T17%3A26%3A33.956Z",
