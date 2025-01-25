@@ -1,29 +1,20 @@
 [
-    {
-    "_type": "category",
-    "_id": "lampCategoryId",
+  {
+    "id": "lamp",
     "name": "Lamps",
-    "slug": {
-      "_type": "slug",
-      "current": "lamps"
-    }
+    "imageURL": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/lamps/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvbGFtcHMvMTAuanBlZyIsImlhdCI6MTczNzIyMDI3MiwiZXhwIjo0ODkwODIwMjcyfQ.s79-4LRdqr9ILWFLCLFDoItRO1aZZRJEp7gNHQ0AvX4&t=2025-01-18T17%3A11%3A12.934Z",
+    "slug": "lamps"
   },
-    {
-    "_type": "category",
-    "_id": "chairCategoryId",
+  {
+    "id": "chair",
     "name": "Chairs",
-    "slug": {
-      "_type": "slug",
-      "current": "chairs"
-    }
+    "imageURL": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/chairs/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2UvY2hhaXJzLzEwLmpwZWciLCJpYXQiOjE3MzcyMjA2OTgsImV4cCI6NDg5MDgyMDY5OH0._fjxKMhOb6JbtXru3IvB0KmiSmtdCh8skD92yJwzPxY&t=2025-01-18T17%3A18%3A18.399Z",
+    "slug": "chairs"
   },
-    {
-    "_type": "Sofas",
-    "_id": "sofaCategoryId",
-    "name": "Lamps",
-    "slug": {
-      "_type": "slug",
-      "current": "sofas"
-    }
+  {
+    "id": "sofa",
+    "name": "Sofas",
+    "imageURL": "https://knkbkdlvtbhodqixvpgx.supabase.co/storage/v1/object/sign/furniture-marketplace/sofa/10.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmdXJuaXR1cmUtbWFya2V0cGxhY2Uvc29mYS8xMC5qcGVnIiwiaWF0IjoxNzM3MjIxMDI3LCJleHAiOjQ4OTA4MjEwMjd9.wRfPaM8ry58sLliPBxxD2SUokH0V0hZKkoljh6gATw0&t=2025-01-18T17%3A23%3A47.614Z",
+    "slug": "sofas"
   }
 ]
